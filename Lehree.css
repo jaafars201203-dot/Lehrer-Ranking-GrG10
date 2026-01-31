@@ -1,0 +1,29 @@
+h1{font-size:30px;
+   color:blue;
+}
+
+body{background-color:grey;
+}
+
+img{width:100px;
+
+}
+
+.name{font-size:25px;
+    color:black;
+    margin-left:30px;
+    margin-top:40px;
+
+}
+
+
+.voting{width:120px;
+       font-size:20px;
+  
+
+}
+
+
+.stimmen{font-size:30px;
+  
+}
